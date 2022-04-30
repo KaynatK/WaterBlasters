@@ -1,0 +1,90 @@
+body{background-color: 	
+#80ff80;}
+.nav{width: 200px;
+  border: 10px solid green;
+  padding: 20px;
+  margin: 20px;}
+.tit{background-color:#92a8d1;
+font-size:20px;
+font-family:verdana;}
+.video{  width: 50%;
+  height: auto;
+  border:2px solid blue;
+padding:5px;  display: block;
+  margin-left: auto;
+  margin-right: auto;}
+
+.headers{background-color: powderblue;
+ text-align: center;
+ font-size:30px;
+ font-family:Helvetica;
+ color: #ff6600;
+}
+.p{background-color:#ff99ff;
+font-size:20px;
+font-family:Times New Roman;
+color: #ac3973;
+}
+.art{background-color:#000066;
+font-size:20px;
+font-family:fantasy;
+color:#248f8f;}
+
+.h2{background-color:yellow;
+font-family:Arial;
+font-size:20px;
+text-align:center;}
+.p2{background-color:lightpink;
+font-family:Times;
+font-size:20px;
+color:rgb(201, 76, 76);
+}
+.lec{border: 10px dotted black;
+  padding: 20px;
+  margin: 20px;}
+.but{background-color:blue;
+font-family:monospace;
+font-size:20px;
+color:; #00bfff}
+.cap{color:grey;
+font-size:30px;
+font-family:monospace;
+}
+
+.h3{background-color:#332600;
+font-family:Arial;
+font-size:30px;
+text-align:center;
+color:#88ff4d}
+.p3{background-color:#ffff4d;
+font-family:Sans-Serif;
+font-size:20px;
+color:#00802b;}
+.sec{color:#600080;
+font-size:30px;
+font-family:cursive;
+}
+.h1{background-color:#00a3cc;
+font-family:monospace;
+font-size:40px;
+text-align:center;
+color:hsl(320, 100%, 70%);}
+.me{color: #e600e6;
+font-size:30px;
+font-family:cursive;}
+.p4{background-color: #808000;
+font-family:Sans-Serif;
+font-size:20px;
+color:#4d1919;}
+.p5{color:rgb(102, 255, 51);
+font-size:25px;
+font-family:cursive;
+background-color:#8080ff;}
+.h5{background-color:#332600;
+font-family:Arial;
+font-size:20px;
+text-align:center;
+color:#88ff4d}
+.side{color:rgb(128, 0, 0);
+font-size:20px;
+font-family:Book Antiqua;}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html  lang="en-GB">
+
+<head>
+    <meta charset="UTF-8">
+	<title>Pistol Finder</title>
+	<link href="css/web-style.css" type="text/css" rel="stylesheet">
+	<script src="waterpistolsfinder.js" defer></script>
+</head>
+
+<body>
+<main>
+<form id = "pistolForm">
+	  <fieldset>
+		<legend><h2>Choose a Colour</h2></legend>
+		<label for ="pistolcolour">Select a colour:</label>
+		<select name ="pistolcolour" id ="pistolcolour"> 
+		  <option value="Blue">Blue</option>
+		  <option value="Pink">Pink</option>
+		  <option value="Black">Black</option>
+		  <option value="Red">Red</option>
+		  <option value="CamoGreen">CamoGreen</option>
+		</select>
+	  </fieldset>
+	  
+	  <fieldset>
+	    <legend><h2>A Range for Price</h2></legend>
+	  	<label for = "minPrice">Minimum Price:</label>
+		<input type="number" id="minPrice" name="minPrice" min="20" max="40">
+		<label for="maxPrice">Maximum Price:</label>
+		<input type="number" id="maxPrice" name="maxPrice" min="50" max="70">
+      </fieldset>
+	  <fieldset>
+	     <input type="button" value="Find a Pistol" id="find_Btn" />
+
+      </fieldset>	
+	</form>
+	</main>
+	<section>
+		<footer>
+			<h3>Copyrights &copy; only refers to legal onwer.</h3>
+		</footer>
+	</section>
+
+
+</body>
+</html>
